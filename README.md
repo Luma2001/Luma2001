@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Luma2001
+- 👋 Hi, I’m Luma!!!
 - 👀 I’m interested in html, css, bootstrap, javascript, react, java.
-- 🌱 I’m currently learning  html, css, bootstrap, javascript,react y java.
+- 🌱 I’m currently learning  html, css, bootstrap, javascript, react y java.
 - 💞️ I’m looking to collaborate on work team.
 - 📫 How to reach me: lumaqui2001@gmail.com.
 
