@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Luma!!!
 - 👀 I’m interested in React, html, css, javascript, sequelize.
-- 🌱 I’m currently learning  html, css, javascript, react y react native.
+- 🌱 I’m currently learning  html, css, javascript, C#, Python, react y react native.
 - 💞️ I’m looking to collaborate on work team.
 - 📫 How to reach me: lumaqui2001@gmail.com.
 
